@@ -19,7 +19,7 @@ export const CTA: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
               <a
-                href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
+                href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
                 target="_blank"
                 className="w-full sm:w-auto px-10 py-5 bg-white text-blue-600 rounded-2xl font-extrabold text-xl shadow-xl hover:bg-slate-50 hover:-translate-y-1 transition-all active:scale-95"
               >
