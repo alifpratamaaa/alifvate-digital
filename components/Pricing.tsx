@@ -3,10 +3,10 @@ import React from 'react';
 
 export const Pricing: React.FC = () => {
   const inclusions = [
-    'Website 1 Halaman (Landing Page)',
+    'Website 1 Halaman',
     'Responsive (Mobile, Tablet, Desktop)',
     'Desain Modern & Clean',
-    'Domain Gratis (.vercel.app)',
+    'Domain Gratis',
     'Keamanan SSL / HTTPS',
     '3x Revisi Ringan',
     'Integrasi Tombol WhatsApp',
