@@ -8,7 +8,7 @@ export const Pricing: React.FC = () => {
     'Desain Modern & Clean',
     'Domain Gratis (.vercel.app)',
     'Keamanan SSL / HTTPS',
-    '1x Revisi Ringan',
+    '3x Revisi Ringan',
     'Integrasi Tombol WhatsApp',
   ];
 
@@ -49,7 +49,7 @@ export const Pricing: React.FC = () => {
             </ul>
 
             <a
-              href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20mau%20ambil%20Paket%2099rb"
+              href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20mau%20ambil%20Paket%2099rb"
               target="_blank"
               className="block w-full text-center px-6 py-4 bg-blue-600 text-white rounded-2xl font-extrabold text-lg shadow-lg hover:bg-blue-700 transition-all active:scale-95"
             >
