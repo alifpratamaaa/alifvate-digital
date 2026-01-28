@@ -57,7 +57,7 @@ export const Pricing: React.FC = () => {
             </a>
             
             <p className="mt-4 text-center text-xs text-slate-400 italic">
-              *Estimasi pengerjaan: 24-48 jam setelah data lengkap.
+              *Estimasi pengerjaan: 12 - 24 jam setelah data lengkap.
             </p>
           </div>
         </div>
