@@ -32,7 +32,7 @@ export const About: React.FC = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="p-4 bg-slate-50 rounded-xl border border-slate-100">
                 <p className="font-extrabold text-blue-600 text-xl mb-1">Cepat</p>
-                <p className="text-sm text-slate-500">Online dalam 12-24 jam saja.</p>
+                <p className="text-sm text-slate-500">Online dalam 24-48 jam saja.</p>
               </div>
               <div className="p-4 bg-slate-50 rounded-xl border border-slate-100">
                 <p className="font-extrabold text-blue-600 text-xl mb-1">Simpel</p>
