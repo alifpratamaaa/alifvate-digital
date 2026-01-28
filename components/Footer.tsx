@@ -27,8 +27,8 @@ export const Footer: React.FC = () => {
             <div>
               <h4 className="font-bold text-white mb-4 uppercase tracking-widest text-xs">Hubungi Kami</h4>
               <ul className="space-y-2 text-slate-400">
-                <li><a href="https://wa.me/6281234567890" className="hover:text-blue-500 transition-colors">WhatsApp</a></li>
-                <li><a href="#" className="hover:text-blue-500 transition-colors">Instagram</a></li>
+                <li><a href="https://wa.me/6289663084201" className="hover:text-blue-500 transition-colors">WhatsApp</a></li>
+                <li><a href="https://www.instagram.com/alifvate" className="hover:text-blue-500 transition-colors">Instagram</a></li>
                 <li><a href="#" className="hover:text-blue-500 transition-colors">Email</a></li>
               </ul>
             </div>
