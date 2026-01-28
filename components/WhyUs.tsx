@@ -31,7 +31,7 @@ export const WhyUs: React.FC = () => {
       ),
     },
     {
-      title: 'Ramah Mobile',
+      title: 'Mobile Friendly',
       description: 'Website otomatis rapi kalau dibuka di HP, Tablet, atau Laptop. Gak bakal berantakan.',
       icon: (
         <svg className="w-8 h-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
