@@ -9,7 +9,7 @@ export const About: React.FC = () => {
           <div className="lg:w-1/2 mb-10 lg:mb-0">
             <div className="relative">
               <img
-                src="https://picsum.photos/800/600?random=1"
+                src="/images/web1.png"
                 alt="Tentang Alifvate Digital"
                 className="rounded-3xl shadow-2xl grayscale-[0.2] hover:grayscale-0 transition-all duration-500"
               />
