@@ -3,12 +3,12 @@ import React from 'react';
 
 export const Services: React.FC = () => {
   const serviceTypes = [
-    { title: 'Landing Page', desc: 'Halaman promosi produk/jasa biar jualan makin laris.', img: 'https://picsum.photos/400/300?random=10' },
-    { title: 'Company Profile', desc: 'Profile bisnis biar terlihat profesional di mata klien.', img: 'https://picsum.photos/400/300?random=11' },
-    { title: 'Portfolio Pribadi', desc: 'Pamerin karya atau CV online biar makin dilirik recruiter.', img: 'https://picsum.photos/400/300?random=12' },
-    { title: 'Katalog Produk', desc: 'List produk jualanmu biar customer gampang milih.', img: 'https://picsum.photos/400/300?random=13' },
-    { title: 'Microsite / Link Bio', desc: 'Alternatif Linktree yang lebih eksklusif & branded.', img: 'https://picsum.photos/400/300?random=14' },
-    { title: 'Promo Page', desc: 'Halaman khusus event atau promo terbatas bisnismu.', img: 'https://picsum.photos/400/300?random=15' },
+    { title: 'Landing Page', desc: 'Halaman promosi produk/jasa biar jualan makin laris.', img: '/images/landingpage.png' },
+    { title: 'Company Profile', desc: 'Profile bisnis biar terlihat profesional di mata klien.', img: '/images/company.png' },
+    { title: 'Portfolio Pribadi', desc: 'Pamerin karya atau CV online biar makin dilirik recruiter.', img: '/images/portfolio.png' },
+    { title: 'Katalog Produk', desc: 'List produk jualanmu biar customer gampang milih.', img: '/images/produk.png' },
+    { title: 'Microsite / Link Bio', desc: 'Alternatif Linktree yang lebih eksklusif & branded.', img: '/images/microsite.png' },
+    { title: 'Promo Page', desc: 'Halaman khusus event atau promo terbatas bisnismu.', img: '/images/promo.png' },
   ];
 
   return (
