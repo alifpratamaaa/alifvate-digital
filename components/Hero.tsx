@@ -17,12 +17,12 @@ export const Hero: React.FC = () => {
             Punya Website <span className="text-blue-600">Profesional</span> <br className="hidden md:block" /> Gak Harus Mahal.
           </h1>
           <p className="max-w-2xl mx-auto text-lg md:text-xl text-slate-600 mb-10 leading-relaxed">
-            Bantu UMKM, Personal Brand, dan Bisnis pemula go digital dengan landing page modern, cepat, dan terjangkau.
+            Bantu UMKM, Personal Brand, dan Bisnis pemula Go Digital dengan landing page modern, cepat, dan terjangkau.
           </p>
           
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
             <a
-              href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
+              href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
               target="_blank"
               className="w-full sm:w-auto px-8 py-4 bg-blue-600 text-white rounded-2xl font-extrabold text-lg shadow-xl shadow-blue-200 hover:bg-blue-700 hover:-translate-y-1 transition-all active:scale-95"
             >
