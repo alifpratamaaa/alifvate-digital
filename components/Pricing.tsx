@@ -10,6 +10,7 @@ export const Pricing: React.FC = () => {
     'Keamanan SSL / HTTPS',
     '3x Revisi Ringan',
     'Integrasi Tombol WhatsApp',
+    'Free Support Selama 1 Tahun',
   ];
 
   return (
